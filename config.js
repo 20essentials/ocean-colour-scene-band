@@ -1,0 +1,23 @@
+export const nameBand = 'OCEAN COLOUR SCENE';
+export let nameSongs = [
+	"THE RIVERBOAT SONG", /*1*/
+	"GET BLOWN AWAY", /*2*/
+	"LINING YOUR POCKETS", /*3*/
+	"UP ON THE DOWNSIDE", /*4*/
+	"HUNDRED MILE HIGH CITY", /*5*/
+	"FOXY'S FOLK FACED", /*6*/
+	"JULY", /*7*/
+	"BETTER DAY", /*8*/
+	"IT'S MY SHADOW", /*9*/
+	"THE CIRCLE", /*10*/
+	"THE DAY WE CAUGHT THE TRAIN", /*11*/
+	"YOU'VE GOT IT BAD", /*12*/
+	"TRAVELLERS TUNE", /*13*/
+	"PROFIT IN PEACE", /*14*/
+	"SO LOW", /*15*/
+	"IT'S A BEAUTIFUL THING", /*16*/
+	"FLEETING MIND", /*17*/
+	"BIG STAR", /*18*/
+	"MECHANICAL WONDER", /*19*/
+	"FREE MY NAME", /*20*/
+]
